@@ -12,7 +12,7 @@ My first project made for VII R3d Winter Triathlon.
 * [Contact](#contact)
 
 ## General info
-A simple website written for VII R3d Winter Triathlon. It includes a clock counting the time to start, competition schedule, map with marked locations, graphics with the course of the route and an application form. 
+A simple website written for VII R3d Winter Triathlon. It includes a timer counting time to the triathlon start, competition schedule, map with marked locations, graphics with the course of the route and an application form. 
 
 ## Screenshots
 ![Triathlon_R3D](./img/Triathlon_R3D.png)
